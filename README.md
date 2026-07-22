@@ -24,5 +24,5 @@ Technical Areas:
 - Trustworthy AI
 
 Current Focus:
-- I am currenlty building an AI system for predicting digital burnout among young adults using behavioral data analysis using machine learning. I will be leaveraging screen time impacts on mental health datsets from publick repositories and databases.
+- I am currenlty building an AI system for predicting digital burnout among young adults using behavioral data analysis using machine learning. I will be leaveraging screen time impacts on mental health datasets from public repositories and databases.
   
