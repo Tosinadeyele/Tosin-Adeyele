@@ -10,3 +10,19 @@ I conduct research and I am a contributor to some repositories on this pltaform 
 - Federated-Lora-Geometry
 - Robust-Federated-Learning-Noniid
 - Federated-Personalization-Depth
+
+
+Technical Areas:
+- Data Analsysis
+- Python
+- R Programming
+- Research and Engineering
+- Mat Lab
+- Power BI
+- Machine Learning
+- Deep Learning
+- Trustworthy AI
+
+Current Focus:
+- I am currenlty building an AI system for predicting digital burnout among young adults using behavioral data analysis using machine learning. I will be leaveraging screen time impacts on mental health datsets from publick repositories and databases.
+  
